@@ -1,0 +1,23 @@
+.jumbotron{
+    height: 100vh;
+    background-image: url(https://www.lavanguardia.com/r/GODO/LV/p2/WebSite/Imagenes/2014/03/13/Recortada/LV_20140313_LV_TECNOLOGIA_VIDEOJUEGOS_D_54403361015-992x558@LaVanguardia-Web.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.jumbotron2{
+    height: 100vh;
+    background-image: url(https://futbolboricua.co/wp-content/uploads/2018/03/RocketLeague.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.jumbotron3{
+    height: 100vh;
+    background-image: url(https://www.alfabetajuega.com/wp-content/uploads/2018/10/alfabetajuega-ocarina-of-time-1-031017.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
